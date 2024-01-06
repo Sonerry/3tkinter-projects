@@ -1,7 +1,7 @@
 ## This is my first repo there may be errors sorry
 # About the project
 
-I made this project to learn git and github. The project includes applications such as calculator, [BMI](https://en.wikipedia.org/wiki/Body_mass_index) and clock.
+I made this project to learn git and github. The project includes applications such as calculator, [BMI](https://en.wikipedia.org/wiki/Body_mass_index) and clock.codes are in other branch
 All you need is Python to run it.
 
 ## My thoughts about tkinter
